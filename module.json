@@ -1,0 +1,19 @@
+{
+  "name": "npc-auto-scaler",
+  "title": "NPC Auto-Scaler",
+  "description": "Automatically scales NPC stats based on a Challenge Rating (1-10).",
+  "version": "1.0.0",
+  "author": "Braden Scott Allen",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "10.0.0",
+  "system": "dnd5e",
+  "esmodules": ["module.js"],
+  "scripts": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "dependencies": [],
+  "manifest": "https://yourdomain.com/modules/npc-auto-scaler/module.json",
+  "download": "https://yourdomain.com/modules/npc-auto-scaler/npc-auto-scaler.zip",
+  "license": "MIT"
+}
